@@ -6,15 +6,15 @@ appending a random motion capture sequence onto
 the mode, superimposing this on a background image,
 then exporting the animation to a file 
 
-# 1. Input your main directory here. Desktop was used.\
+# 1. Input your main directory here. Desktop was used.
 `home_directory = "C:/Users/n10010319/Desktop"`
 
 
 
-# 2. Navigate to your main directory \
+# 2. Navigate to your main directory 
 `cd "C:/Users/n10010319/Desktop"`
 
-# 3. Run the program through the command line\
+# 3. Run the program through the command line
 `blender.lnk C:/Users/n10010319/Desktop/gen_template.blend --python C:/Users/n10010319/Desktop/generation.py`
 
 ```
