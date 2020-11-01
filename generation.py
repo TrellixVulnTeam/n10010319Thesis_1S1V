@@ -110,11 +110,11 @@ def modelling(file_name, placeholder):
     # ANIMATE==============================================================================================
     # Changes can be made in the template file. These 
     # change will be applied across the entire database.
-    # bpy.ops.render.render(animation=True)
+    bpy.ops.render.render(animation=True)
 
     # The name of the file is changed from the general output 
     # to the name of the model + its mocap sequence
-    # os.rename(video_directory+"/0001-0045.mkv", video_directory+"/"+capital_selected_model + "mocap"+ selected_mocap[:-4]+".mkv")
+    os.rename(video_directory+"/0001-0045.mkv", video_directory+"/"+capital_selected_model + "mocap"+ selected_mocap[:-4]+".mkv")
 
 
     # The model object is then delete to allow for the nect one
