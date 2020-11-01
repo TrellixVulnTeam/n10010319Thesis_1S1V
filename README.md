@@ -1,4 +1,4 @@
-# Generatin Synthetic Data for use with Convolutional Neural Networks
+# Generating Synthetic Data for use with Convolutional Neural Networks
 
 The following program automates the process of 
 importing a selection of models into Blender, 
