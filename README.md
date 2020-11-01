@@ -1,5 +1,5 @@
 # Note for the generation.py
-You must change the os.rename fuction slightly to match whatever nubr of frames you are rendering.
+You must change the os.rename fuction slightly to match whatever number of frames you are rendering.
 50 frames? You'll change the "0001-0045.mkv" to "0001-0050.mkv"
 
 # Generating Synthetic Data for use with Convolutional Neural Networks
