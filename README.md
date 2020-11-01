@@ -18,35 +18,35 @@ Run the program through the command line
 blender.lnk C:/Users/n10010319/Desktop/gen_template.blend --python C:/Users/n10010319/Desktop/generation.py
 
 
-Desktop
-│   README.md
-│   gen_template.blend  
-|   generation.py  
-|
-└───FinalVideos
-│
-└───Models
-│   │   mademodel01.bvh
-│   │   mademodel02.bvh
-│   │   mademodel03.bvh
-│   │   mademodel04.bvh
-│   │   mademodel05.bvh
-│       ...
-│
-└───Mocap
-│   │   file00.bvh
-│   │   file01.bvh
-│   │   file02.bvh
-│   │   file03.bvh
-│   │   file04.bvh
-│       ...
-│   
-└───Images
-    │   pictureofgoats.jpg
-    │   randomname1.png
-    │   randomname2.png
-    │   randomname3.png
-    │   randomname4.png
-    │   randomname5.png
-        ...
-```
+Desktop\
+│   README.md\
+│   gen_template.blend
+|   generation.py  \
+|\
+└───FinalVideos\
+│\
+└───Models\
+│   │   mademodel01.bvh\
+│   │   mademodel02.bvh\
+│   │   mademodel03.bvh\
+│   │   mademodel04.bvh\
+│   │   mademodel05.bvh\
+│       ...\
+│\
+└───Mocap\
+│   │   file00.bvh\
+│   │   file01.bvh\
+│   │   file02.bvh\
+│   │   file03.bvh\
+│   │   file04.bvh\
+│       ...\
+│   \
+└───Images\
+    │   pictureofgoats.jpg\
+    │   randomname1.png\
+    │   randomname2.png\
+    │   randomname3.png\
+    │   randomname4.png\
+    │   randomname5.png\
+        ...\
+```\
